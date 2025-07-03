@@ -76,7 +76,7 @@ const Hero = ({ isDarkMode }) => {
             className="order-1 lg:order-2 flex justify-center lg:justify-end"
           >
             <img
-              src="/IMG_3373.jpg"
+              src="/1751258040784.jpeg"
               alt="Ian Cossa"
               className="w-80 h-80 object-cover rounded-2xl shadow-2xl border-4 border-secondary"
             />
