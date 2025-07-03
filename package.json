@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "postinstall": "sh -c 'chmod +x node_modules/.bin/vite || echo skip chmod'",
     "build": "vite build --base=./",
     "preview": "vite preview"
   },
