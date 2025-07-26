@@ -52,9 +52,10 @@ const Skills = ({ isDarkMode }) => {
           <SkillCategory title="Frontend" skills={SKILLS.frontend} delay={0.1} isDarkMode={isDarkMode} />
           <SkillCategory title="Backend" skills={SKILLS.backend} delay={0.2} isDarkMode={isDarkMode} />
           <SkillCategory title="Languages" skills={SKILLS.languages} delay={0.3} isDarkMode={isDarkMode} />
-          <SkillCategory title="Cloud & DevOps" skills={SKILLS.cloud} delay={0.4} isDarkMode={isDarkMode} />
-          <SkillCategory title="Authentication" skills={SKILLS.auth} delay={0.5} isDarkMode={isDarkMode} />
-          <SkillCategory title="AI & ML" skills={SKILLS.emerging} delay={0.6} isDarkMode={isDarkMode} />
+          <SkillCategory title="Tools" skills={SKILLS.tools} delay={0.4} isDarkMode={isDarkMode} />
+          <SkillCategory title="Cloud & DevOps" skills={SKILLS.cloud} delay={0.5} isDarkMode={isDarkMode} />
+          <SkillCategory title="Authentication" skills={SKILLS.auth} delay={0.6} isDarkMode={isDarkMode} />
+          <SkillCategory title="AI & ML" skills={SKILLS.emerging} delay={0.7} isDarkMode={isDarkMode} />
         </div>
       </div>
     </section>
