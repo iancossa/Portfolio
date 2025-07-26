@@ -52,7 +52,7 @@ export const SOCIAL_LINKS = {
 
 export const CERTIFICATIONS = [
   {
-    title: 'Python for Data Science',
+    title: 'Python ',
     provider: 'IBM',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg',
     url: 'https://courses.etrain.skillsnetwork.site/certificates/202726cfb79f4bbabf744c158559ff02',
