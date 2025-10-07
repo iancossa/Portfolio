@@ -60,7 +60,29 @@ export const PROJECTS = [
   {
     name: 'Attendance Hunters',
     description: 'Attendance Hunters is a cross-platform, intelligent attendance management system that automates and secures attendance tracking through QR code sessions, geofencing validation, and real-time analytics. Designed for educational and corporate environments, it enhances accuracy, saves time, prevents proxy attendance, and provides actionable insights through modern dashboards and reports.',
-    url: 'https://attendance-fullstack-obg8.vercel.app/dashboard'
+    url: 'https://attendance-fullstack-obg8.vercel.app/dashboard',
+    image: '/ChatGPT Image 25_06_2025, 16_14_55.png',
+    technologies: {
+      backend: [
+        { name: 'Node.js', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' },
+        { name: 'Express', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' },
+        { name: 'Prisma', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg' },
+        { name: 'PostgreSQL', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' }
+      ],
+      frontend: [
+        { name: 'React', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' },
+        { name: 'TypeScript', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' }
+      ],
+      mobile: [
+        { name: 'Flutter', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' },
+        { name: 'Dart', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg' }
+      ],
+      security: [
+        { name: 'JWT', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg' },
+        { name: 'Docker', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' },
+        { name: 'GitHub Actions', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' }
+      ]
+    }
   }
 ];
 
