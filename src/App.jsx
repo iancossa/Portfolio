@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Hero from './components/Hero';
 import Skills from './components/Skills';
+import Projects from './components/Projects';
 import Certifications from './components/Certifications';
 import Contact from './components/Contact';
 import ThemeToggle from './components/ThemeToggle';
@@ -26,6 +27,7 @@ function App() {
       <ThemeToggle onThemeChange={handleThemeChange} />
       <Hero isDarkMode={isDarkMode} />
       <Skills isDarkMode={isDarkMode} />
+      <Projects isDarkMode={isDarkMode} />
       <Certifications isDarkMode={isDarkMode} />
       <Contact isDarkMode={isDarkMode} />
     </div>
