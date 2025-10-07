@@ -61,7 +61,7 @@ export const PROJECTS = [
     name: 'Attendance Hunters',
     description: 'Attendance Hunters is a cross-platform, intelligent attendance management system that automates and secures attendance tracking through QR code sessions, geofencing validation, and real-time analytics. Designed for educational and corporate environments, it enhances accuracy, saves time, prevents proxy attendance, and provides actionable insights through modern dashboards and reports.',
     url: 'https://attendance-fullstack-obg8.vercel.app/dashboard',
-    image: '/ChatGPT Image 25_06_2025, 16_14_55.png',
+    image: '/attandance.png',
     technologies: {
       backend: [
         { name: 'Node.js', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' },
