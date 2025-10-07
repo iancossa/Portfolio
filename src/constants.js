@@ -56,6 +56,14 @@ export const SOCIAL_LINKS = {
   leetcode: 'https://leetcode.com/u/IanCossa/'
 };
 
+export const PROJECTS = [
+  {
+    name: 'Attendance Hunters',
+    description: 'Attendance Hunters is a cross-platform, intelligent attendance management system that automates and secures attendance tracking through QR code sessions, geofencing validation, and real-time analytics. Designed for educational and corporate environments, it enhances accuracy, saves time, prevents proxy attendance, and provides actionable insights through modern dashboards and reports.',
+    url: 'https://attendance-fullstack-obg8.vercel.app/dashboard'
+  }
+];
+
 export const CERTIFICATIONS = [
   {
     title: 'Python ',
